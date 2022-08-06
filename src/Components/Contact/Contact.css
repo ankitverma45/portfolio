@@ -13,6 +13,15 @@
     font-size: bold;
     color: orange
 }
+input{
+    padding: 0px 8px;
+    font-weight: bold;
+}
+textarea{
+    padding: 0px 8px;
+    font-weight: bold;
+
+}
 
 .input-text{
     display: flex;
